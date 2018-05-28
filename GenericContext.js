@@ -1,6 +1,6 @@
 import React from 'react';
 
-import deepCopy from '../utils/deepCopy';
+import deepCopy from './tools';
 
 import { filterAction } from './ActionsController';
 
